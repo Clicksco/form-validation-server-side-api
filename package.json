@@ -1,0 +1,16 @@
+{
+  "name": "@mae/form_validation",
+  "version": "1.0.2",
+  "description": "form validation from server side - API Call",
+  "main": "form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form validation",
+    "mae"
+  ],
+  "author": "furqan <furqan@clicksco.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
